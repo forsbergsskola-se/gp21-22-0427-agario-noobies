@@ -14,12 +14,12 @@ try
         Console.WriteLine("Waiting for connection");
         TcpClient client = server.AcceptTcpClient();
         Console.WriteLine("Connected!");
-
+        var stream = client.GetStream();
         string response = DateTime.Now.ToString();
         StreamWriter sw = new StreamWriter(client.GetStream());
         sw.WriteLine(response);
         Console.WriteLine(response);
-
+        stream.Write(Encoding.ASCII.GetBytes(DateTime.Now.ToString()));
         sw.Close();
         client.Close();
     }
