@@ -6,7 +6,7 @@ public class DaytimeClient : TcpClient
 {
     public DaytimeClient(string host)
     {
-        base.Connect(host, 13);
+        base.Connect(host, 1313);
     }
 
     public static void Main(string[] args)

@@ -5,7 +5,7 @@ using System.IO;
 TcpListener server = null;
 try
 {
-    int portNum = 13; //Daytime Server port Time
+    int portNum = 1313; //Daytime Server port Time
     server = new TcpListener(portNum);
     server.Start();
 
