@@ -1,0 +1,15 @@
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\bin\Debug\net6.0\DayTimeClient.exe
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\bin\Debug\net6.0\DayTimeClient.deps.json
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\bin\Debug\net6.0\DayTimeClient.runtimeconfig.json
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\bin\Debug\net6.0\DayTimeClient.dll
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\bin\Debug\net6.0\DayTimeClient.pdb
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.csproj.AssemblyReference.cache
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.AssemblyInfoInputs.cache
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.AssemblyInfo.cs
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.csproj.CoreCompileInputs.cache
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.dll
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\refint\DayTimeClient.dll
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.pdb
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\DayTimeClient.genruntimeconfig.cache
+D:\Forsbergs_School\gp21-22-0427-agario-noobies\DayTimeClient\obj\Debug\net6.0\ref\DayTimeClient.dll
